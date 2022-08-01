@@ -1,0 +1,5 @@
+name = str(input("Привіт, мене звати Вася! Як тебе звати?"))
+print('Вітаю', name)
+degree1 = int(input("Загадай будь-яке натуральне число"))
+degree2 = int(input("Загадай інше натуральне число"))
+print(degree1, "+", degree2, "=", degree1 + degree2)
